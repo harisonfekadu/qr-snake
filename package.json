@@ -1,0 +1,17 @@
+{
+  "name": "qr-snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "minify": "node minify",
+    "qrcode": "qrcode -o qr-snake.png < snake-min",
+    "generate": "npm run minify && npm run qrcode"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minify": "^11.2.0",
+    "qrcode": "^1.5.3"
+  }
+}
