@@ -14,6 +14,7 @@ However, the gameplay might not be as intuitive as traditional snake games. To p
 
 ### Demo
 Scan to play! 📷
+
 ![qr-snake](https://github.com/harisonfekadu/qr-snake/assets/11662806/64b7cb52-57bc-4a47-81f1-978b8075ebcc)
 
 If you're having trouble scanning then just paste this in your browser address bar:
